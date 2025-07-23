@@ -21,8 +21,3 @@ It allows users to perform basic arithmetic operations and offers a clean, respo
 - Vanilla JavaScript
 
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Simple-Calculator-WebApp.git
